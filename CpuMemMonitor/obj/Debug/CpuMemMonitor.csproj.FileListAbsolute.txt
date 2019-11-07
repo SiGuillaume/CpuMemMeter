@@ -1,0 +1,10 @@
+C:\Users\Guillaume\source\repos\CpuMemMonitor\CpuMemMonitor\bin\Debug\CpuMemMonitor.exe.config
+C:\Users\Guillaume\source\repos\CpuMemMonitor\CpuMemMonitor\bin\Debug\CpuMemMonitor.exe
+C:\Users\Guillaume\source\repos\CpuMemMonitor\CpuMemMonitor\bin\Debug\CpuMemMonitor.pdb
+C:\Users\Guillaume\source\repos\CpuMemMonitor\CpuMemMonitor\obj\Debug\CpuMemMonitor.csprojAssemblyReference.cache
+C:\Users\Guillaume\source\repos\CpuMemMonitor\CpuMemMonitor\obj\Debug\CpuMemMonitor.Form1.resources
+C:\Users\Guillaume\source\repos\CpuMemMonitor\CpuMemMonitor\obj\Debug\CpuMemMonitor.Properties.Resources.resources
+C:\Users\Guillaume\source\repos\CpuMemMonitor\CpuMemMonitor\obj\Debug\CpuMemMonitor.csproj.GenerateResource.cache
+C:\Users\Guillaume\source\repos\CpuMemMonitor\CpuMemMonitor\obj\Debug\CpuMemMonitor.csproj.CoreCompileInputs.cache
+C:\Users\Guillaume\source\repos\CpuMemMonitor\CpuMemMonitor\obj\Debug\CpuMemMonitor.exe
+C:\Users\Guillaume\source\repos\CpuMemMonitor\CpuMemMonitor\obj\Debug\CpuMemMonitor.pdb
