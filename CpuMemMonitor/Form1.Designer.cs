@@ -40,18 +40,20 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(9, 9);
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Location = new System.Drawing.Point(12, 6);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(60, 13);
+            this.label1.Size = new System.Drawing.Size(85, 16);
             this.label1.TabIndex = 0;
             this.label1.Text = "Cpu Usage";
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(9, 72);
+            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.Location = new System.Drawing.Point(12, 69);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(78, 13);
+            this.label2.Size = new System.Drawing.Size(113, 16);
             this.label2.TabIndex = 1;
             this.label2.Text = "Memory Usage";
             // 
@@ -59,15 +61,14 @@
             // 
             this.progressBarCpu.Location = new System.Drawing.Point(12, 25);
             this.progressBarCpu.Name = "progressBarCpu";
-            this.progressBarCpu.Size = new System.Drawing.Size(373, 31);
+            this.progressBarCpu.Size = new System.Drawing.Size(318, 24);
             this.progressBarCpu.TabIndex = 2;
-           
             // 
             // progressBarMem
             // 
             this.progressBarMem.Location = new System.Drawing.Point(12, 88);
             this.progressBarMem.Name = "progressBarMem";
-            this.progressBarMem.Size = new System.Drawing.Size(373, 31);
+            this.progressBarMem.Size = new System.Drawing.Size(318, 24);
             this.progressBarMem.TabIndex = 3;
             // 
             // buttonStart
@@ -83,18 +84,20 @@
             // CpuUsage
             // 
             this.CpuUsage.AutoSize = true;
-            this.CpuUsage.Location = new System.Drawing.Point(337, 9);
+            this.CpuUsage.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.CpuUsage.Location = new System.Drawing.Point(347, 25);
             this.CpuUsage.Name = "CpuUsage";
-            this.CpuUsage.Size = new System.Drawing.Size(21, 13);
+            this.CpuUsage.Size = new System.Drawing.Size(35, 24);
             this.CpuUsage.TabIndex = 5;
             this.CpuUsage.Text = "0%";
             // 
             // MemUsage
             // 
             this.MemUsage.AutoSize = true;
-            this.MemUsage.Location = new System.Drawing.Point(337, 72);
+            this.MemUsage.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.MemUsage.Location = new System.Drawing.Point(347, 88);
             this.MemUsage.Name = "MemUsage";
-            this.MemUsage.Size = new System.Drawing.Size(21, 13);
+            this.MemUsage.Size = new System.Drawing.Size(35, 24);
             this.MemUsage.TabIndex = 6;
             this.MemUsage.Text = "0%";
             // 
